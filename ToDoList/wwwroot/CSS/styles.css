@@ -9,10 +9,10 @@ h1 {
 
 div#footer {
     position:fixed;
-    bottom:0px;
-    left:0px;
-    width:100%;
-    color:#CCC;
-    background:coral;
-    padding:8px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    color: #CCC;
+    background: coral;
+    padding: 8px;
 }
